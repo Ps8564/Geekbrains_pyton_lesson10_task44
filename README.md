@@ -1,5 +1,5 @@
 <h3 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Pavel</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="42"/></h2>
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="42"/></h3>
 <h3 align="center">I am a student from GeegBrains</h3>
 
 ### Выполнил: Шутылев П.В. 19.06.2024
