@@ -23,5 +23,5 @@
 * **`3         False          True`**
 * **`4          True         False`**
 
-![PrintResult](Scrin_print_result.png)
+![PrintResult](Result code pyton lesson10 task44 (19.06.24).png)
 
