@@ -2,6 +2,8 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="42"/></h3>
 <h3 align="center">I am a student from GeegBrains</h3>
 
+
+
 ### Выполнил: Шутылев П.В. 19.06.2024
 
 ### Задача 44: В ячейке ниже представлен код генерирующий DataFrame, которая состоит всего из 1 столбца. Ваша задача перевести его в one hot вид. Сможете ли вы это сделать без get_dummies?
