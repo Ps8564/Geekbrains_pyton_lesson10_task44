@@ -23,3 +23,5 @@
 * **`3         False          True`**
 * **`4          True         False`**
 
+![PrintResult](Scrin_print_result.png)
+
