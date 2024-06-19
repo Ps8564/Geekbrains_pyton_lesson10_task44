@@ -23,5 +23,5 @@
 * **`3         False          True`**
 * **`4          True         False`**
 
-![PrintResult](Result c)
+![PrintResult](Result_code_pyton_lesso_10_task44.png)
 
