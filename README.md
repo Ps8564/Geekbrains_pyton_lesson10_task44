@@ -14,6 +14,7 @@
 
 
 ### Решение:
+[Click here to view the code](pyton_lesson10_task44.py)
 
 #### Пример полученного результата:
 * **`whoAmI_human  whoAmI_robot`**
